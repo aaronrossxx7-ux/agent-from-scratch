@@ -1,0 +1,19 @@
+{
+  "name": "agent-from-scratch",
+  "version": "1.0.0",
+  "description": "A tool-calling agent loop built by hand with the raw Anthropic SDK: no frameworks.",
+  "main": "agent.ts",
+  "scripts": {
+    "start": "node --env-file=.env agent.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4"
+  }
+}

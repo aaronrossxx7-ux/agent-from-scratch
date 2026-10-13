@@ -1,0 +1,7 @@
+2026-10-01 Standup
+- Sam is blocked on the API key rotation
+- Dentist appointment moved, leaving at 3pm Thursday
+
+2026-10-05 Planning
+- Decide between overwrite vs append for write_file
+- Offsite location: Lake Tahoe (Sam to book cabin)
